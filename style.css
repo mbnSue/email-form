@@ -1,0 +1,6 @@
+form label{
+    display: block;
+}
+form input[type="text"] + label{
+    width: 100px;
+}
